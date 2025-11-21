@@ -1,6 +1,10 @@
 # Summary
 Hi, I'm Kira M. Software Tester since 2014, transitioning into software development.
 
+### 🎓 Education
+- **B.S. in Computer Science**, Old Dominion University (ODU) – 2024  
+- **Associate Degree + Honors Certificate**, Northern Virginia Community College (NVCC) – 2002
+
 ### 🛠️ Skills & Technologies
 - **Languages**: Python, SQL, HTML, CSS
 - **Tools**: Git, GitHub, CodeSandbox
