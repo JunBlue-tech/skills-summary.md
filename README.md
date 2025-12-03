@@ -19,7 +19,7 @@ Hi, I'm Kira M. Software Tester since 2014, transitioning into software developm
 ### 💻 Projects
 - [NYPL Project 1](https://codesandbox.io/p/sandbox/project-1-2gw8ry)
 - [NYPL Project 2](https://codesandbox.io/p/sandbox/project-2-items-that-we-couldnt-live-without-original-qrns3z)
-- [Project 3] - Summary (on going).
+- [Project 3](https://codesandbox.io/p/sandbox/project-3-summary-lyctsy?file=%2Findex.html%3A94%2C68)
 
 ### 🎯 Goals
 Transition into a full-stack developer role by building strong foundations in Python, web development, and software engineering best practices.
